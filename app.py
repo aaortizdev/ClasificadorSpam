@@ -82,6 +82,6 @@ def home():
 # Ejecutar la aplicación
 if __name__ == "__main__":
     if clf is not None and vectorizer is not None:
-        app.run(debug=True)
+        app.run(host='0.0.0.0', port=5000)
     else:
         print("No se pudo cargar el modelo. Verifica el archivo de datos y las dependencias.")
