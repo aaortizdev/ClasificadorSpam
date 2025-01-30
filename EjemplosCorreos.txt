@@ -1,0 +1,13 @@
+spam = Win a FREE iPhone 15! Congratulations! You've been selected to receive a brand-new iPhone 15 
+absolutely FREE. Yes, FREE! To claim your prize, simply click the link below and complete a 
+quick survey: Claim Your iPhone 15 Here! Hurry! This offer is only available for a limited time. 
+Don't miss this once-in-a-lifetime opportunity. Millions have already claimed their prizes! 
+Sincerely, The Global Rewards Team.
+
+ham = Hi John, I hope this message finds you well. 
+This is a reminder about our upcoming meeting today at 3 PM to discuss the project update. 
+Agenda: 
+1. Review of current progress. 
+2. Next steps and deadlines. 
+3. Q&A session. 
+Please let me know if you have any questions or need to reschedule. Best regards, Sarah.
